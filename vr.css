@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+/*BANNER SECTION*/
+.vr-logo {
+    width: 50px;
+    height: 50px;
+}
+
+#navitem1 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#navitem2 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+#navitem3 {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.vr-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+
+.vr-head {
+    color: white;
+    font-weight: 700;
+    font-size: 60px;
+
+}
+
+.vr-but {
+    color: white;
+    background-color: #1a2137;
+    border-width: 0px;
+    padding: 10px;
+    width: 130px;
+    height: 40px;
+    text-align: center;
+}
+
+/* FEATURE SECTION */
+.feature-sec {
+    background-color: white;
+    border-color: #7b8794;
+    border-width: 0px;
+    border-style: solid
+}
+
+.feature-tittle {
+    font-family: Roboto;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.feature-img {
+    height: 100px;
+    width: 100px;
+}
+
+.feature-head {
+    font-family: Roboto;
+    color: #1f2933;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.feature-para {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #7b8794;
+}
+
+/* VR KIT SECTION */
+.kit-sec {
+    background-color: #f9fbfe;
+    border-style: solid;
+    border-width: 0px;
+}
+
+.kit-head {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    color: #1f2933;
+}
+
+.kit-img {
+    height: 220px;
+    width: 190px;
+}
+
+.kit-para {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+/* IMPROVED OPTICS SECTION */
+.optics-sec {
+    background-color: white;
+}
+
+.optics-img {
+    height: 300px;
+    width: 90%;
+}
+
+.optics-head {
+    color: #1f2933;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 700;
+}
+
+.optics-para {
+    color: #7b8794;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.optics-but {
+    color: white;
+    background-color: #1a2137;
+    padding: 10px;
+    border-radius: 8px;
+    width: 110px;
+    height: 40px;
+
+}
+
+/* CONTACT SECTION */
+.contact-sec {
+    background-color: #222b36;
+}
+
+.contact-head {
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.contact-img {
+    width: 80%;
+    background-size: cover;
+}
+
+.contact-but {
+    background-color: transparent;
+    color: white;
+    border-radius: 8px;
+    height: 40px;
+    width: 135px;
+}
+
+/* TRENDING SECTION */
+.trend-head {
+    font-weight: 700;
+    font-size: 35px;
+    font-family: Roboto;
+}
+
+.trend-img {
+    height: 40%;
+    width: 100%;
+}
+
+.trend-card-head {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 22px;
+    color: #959ead;
+    margin-top: 15px;
+}
+
+.trend-card-para {
+    font-family: Roboto;
+    color: #323f4b;
+    font-size: 25px;
+}
+
+.trend-card-link {
+    color: #1754a1;
+    font-size: 25px;
+}
+
+.trend-but {
+    background-color: #1754a1;
+    color: white;
+    height: 45px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+/* PRODUCTS SECTION */
+.product-head {
+    font-weight: 700;
+}
+
+.product-back {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.product-card-head {
+    color: white;
+
+}
+
+.product-card-para {
+    color: white;
+}
+
+.product-card-but {
+    color: white;
+    background-color: transparent;
+    height: 40px;
+    width: 140px;
+    border-width: 2px;
+
+}
+
+.product-back1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+
+}
+
+/* FOOTER SECTION */
+.foot-sec {
+    background-color: #19232d;
+}
+
+.font-img {
+    height: 50px;
+    width: 50px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.footer-icon-sec {
+    height: 40px;
+    width: 40px;
+    background-color: #202b36;
+    border-width: 2px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.footer-sec-para {
+    color: #959ead;
+    font-size: 20px;
+}
+
+.footer-sec-head {
+    color: #959ead;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: Roboto;
+}
+
+.text {
+    font-family: "Roboto";
+    font-weight: normal;
+    font-size: 18px;
+    color: #5a7184;
+}
+
+.footer-sec-head1 {
+    color: #959ead;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: Roboto;
+}
+
+.footer-list {
+    list-style: none;
+    padding: 5px;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.copyright-symbol {
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 18px;
+    color: #959ead;
+}
